@@ -12,7 +12,7 @@ public class Boletin2_1 {
         float base, altura, area;
         
       base=Float.parseFloat(JOptionPane.showInputDialog(" Introduzca base"));
-      altura=Float.parseFloat(JOptionPane.showInputDialog("altura"));
+      altura=Float.parseFloat(JOptionPane.showInputDialog(" Introduzca altura"));
       area=base*altura;
       
       
